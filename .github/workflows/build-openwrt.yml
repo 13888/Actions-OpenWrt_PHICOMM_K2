@@ -152,7 +152,7 @@ jobs:
         # CONFIG_PACKAGE_luci-app-accesscontrol is not set
         # CONFIG_PACKAGE_luci-app-acme is not set
         # CONFIG_PACKAGE_luci-app-adblock is not set
-        # CONFIG_PACKAGE_luci-app-adbyby-plus is not set
+        CONFIG_PACKAGE_luci-app-adbyby-plus
         # CONFIG_PACKAGE_luci-app-advanced-reboot is not set
         # CONFIG_PACKAGE_luci-app-ahcp is not set
         # CONFIG_PACKAGE_luci-app-aliddns is not set
@@ -264,7 +264,7 @@ jobs:
         # CONFIG_PACKAGE_luci-app-shairplay is not set
         # CONFIG_PACKAGE_luci-app-siitwizard is not set
         # CONFIG_PACKAGE_luci-app-simple-adblock is not set
-        CONFIG_PACKAGE_luci-app-smartdns=y
+        # CONFIG_PACKAGE_luci-app-smartdns=n
         # CONFIG_PACKAGE_luci-app-softethervpn is not set
         # CONFIG_PACKAGE_luci-app-splash is not set
         # CONFIG_PACKAGE_luci-app-sqm is not set
@@ -280,7 +280,7 @@ jobs:
         # CONFIG_PACKAGE_luci-app-ssr-python-pro-server is not set
         # CONFIG_PACKAGE_luci-app-ssrserver-python is not set
         # CONFIG_PACKAGE_luci-app-statistics is not set
-        CONFIG_PACKAGE_luci-app-syncdial=y
+        # CONFIG_PACKAGE_luci-app-syncdial=n
         # CONFIG_PACKAGE_luci-app-syncthing is not set
         # CONFIG_PACKAGE_luci-app-tinyproxy is not set
         # CONFIG_PACKAGE_luci-app-transmission is not set
